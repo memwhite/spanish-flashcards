@@ -3,7 +3,7 @@ body{
   font-family: serif;
 }
 .wrapper{
-  width: 100%;
+  width: 75%;
   max-width: 1200px;
   margin: 40px auto;
 }
